@@ -75,11 +75,11 @@
 		</dependency>
 		
 		
-<!-- 		Generate class to not type parameters name in Class Search -->
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.hibernate</groupId> -->
-<!-- 			<artifactId>hibernate-jpamodelgen</artifactId>	 -->
-<!-- 		</dependency> -->
+        <!-- Generate class to not type parameters name in Class Search -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-jpamodelgen</artifactId>	
+		</dependency>
 		
 		<!-- Authentication Basic User -->
 		<dependency>
